@@ -1,6 +1,7 @@
 # chess_board_detection
 ### Task Description
 Train deep learning model to detect chessboard in the photo
+
 ![Screenshot](index.png)
 
 ### Solution
